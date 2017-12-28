@@ -21,4 +21,4 @@
 # function: add_lunch_combo generic-eng
 
 add_lunch_combo full_hummingbird-eng
-add_lunch_combo cm_hummingbird-userdebug
+add_lunch_combo lineage_hummingbird-user
