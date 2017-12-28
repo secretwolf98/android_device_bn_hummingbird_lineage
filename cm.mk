@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2011 The CyanogenMod Project
+# Copyright (C) 2017 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -27,7 +27,7 @@ DEVICE_PACKAGE_OVERLAYS += device/bn/hummingbird/overlay/aosp
 
 BOARD_USE_CUSTOM_LIBION := true
 
-PRODUCT_NAME := cm_hummingbird
+PRODUCT_NAME := lineage_hummingbird
 PRODUCT_DEVICE := hummingbird
 PRODUCT_BRAND := Android
 PRODUCT_MODEL := BN Nook HD
