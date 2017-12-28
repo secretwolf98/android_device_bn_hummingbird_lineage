@@ -27,7 +27,7 @@ $(call inherit-product, device/bn/common/cm.mk)
 # Device overlay
 DEVICE_PACKAGE_OVERLAYS += device/bn/hummingbird/overlay/cm
 
-PRODUCT_NAME := cm_hummingbird
+PRODUCT_NAME := lineage_hummingbird
 PRODUCT_DEVICE := hummingbird
 PRODUCT_BRAND := Android
 PRODUCT_MODEL := BN Nook HD
